@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RevisionApp</string>
+    <string name="action_share">Share</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="dialog_message">Are You Sure You Want To Exit?</string>
+    <string name="dialog_title">EXIT</string>
+</resources>
